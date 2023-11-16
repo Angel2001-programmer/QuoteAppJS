@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     const getQuote = async () => {
-      const result = await fetch("https://api.quotable.io/rando")
+      const result = await fetch("https://api.quotable.io/random")
       if(result.status !== 404){
       result.json().then(json => {
             setQuote(json.content);
