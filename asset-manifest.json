@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Angel2001-programmer/QuoteAppJS/static/css/main.2c7c5d83.css",
-    "main.js": "/Angel2001-programmer/QuoteAppJS/static/js/main.8fad790a.js",
-    "static/js/787.a59da822.chunk.js": "/Angel2001-programmer/QuoteAppJS/static/js/787.a59da822.chunk.js",
-    "index.html": "/Angel2001-programmer/QuoteAppJS/index.html",
-    "main.2c7c5d83.css.map": "/Angel2001-programmer/QuoteAppJS/static/css/main.2c7c5d83.css.map",
-    "main.8fad790a.js.map": "/Angel2001-programmer/QuoteAppJS/static/js/main.8fad790a.js.map",
-    "787.a59da822.chunk.js.map": "/Angel2001-programmer/QuoteAppJS/static/js/787.a59da822.chunk.js.map"
+    "main.css": "/github.io/QuoteAppJS/static/css/main.2c7c5d83.css",
+    "main.js": "/github.io/QuoteAppJS/static/js/main.b0316d9b.js",
+    "static/js/787.a59da822.chunk.js": "/github.io/QuoteAppJS/static/js/787.a59da822.chunk.js",
+    "index.html": "/github.io/QuoteAppJS/index.html",
+    "main.2c7c5d83.css.map": "/github.io/QuoteAppJS/static/css/main.2c7c5d83.css.map",
+    "main.b0316d9b.js.map": "/github.io/QuoteAppJS/static/js/main.b0316d9b.js.map",
+    "787.a59da822.chunk.js.map": "/github.io/QuoteAppJS/static/js/787.a59da822.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c7c5d83.css",
-    "static/js/main.8fad790a.js"
+    "static/js/main.b0316d9b.js"
   ]
 }
